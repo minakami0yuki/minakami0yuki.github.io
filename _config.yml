@@ -207,6 +207,7 @@ defaults:
       type: posts
     values:
       layout: article
+      title: Page - Sidebar
       sharing: true
       license: true
       aside:
